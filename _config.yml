@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kishore"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kishore Saseendran Veni"
 description              : "My Portfolio"
-url                      : "https://icehot87.github.io/blog"
+url                      : "https://icehot87.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "icehot87/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -151,6 +151,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "About Me"
-    url: /about/
+    url: resume.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
