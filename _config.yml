@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Kishore S. Veni"
   avatar           : "/images/avatar/avatar.jpeg"
-  bio              : "Anime fan, DC Comics, Sc-Fi movie buff, Tech Freak, Video Gamer, and Software Engineer! P.S. Will do anything for a coffee...."
+  bio              : "Software Engineer by morning, Video Gamer by night! Loves DC comics, science, and sc-fi movies."
   location         : "London, ON"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kishore.sv87@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:kishore.sv87@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
