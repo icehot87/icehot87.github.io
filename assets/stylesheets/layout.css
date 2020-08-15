@@ -212,7 +212,7 @@ h1.title {
 	text-align:center;
 	font-size:28px;
 	font-family: 'Lato', sans-serif; font-weight:700;
-	padding: 70px 0 36px 0;
+	padding: 50px 0 36px 0;
 }
 .rzm_progress_bar{
 }
@@ -444,7 +444,7 @@ span.rzm_importo:hover,.rzm_timeline-panel-ul span.importo:hover{
  	====7.0 Testimonial Area ====  
 ========================================*/
 .rzm_testimonial_content {
-	margin-top: 62px;
+	margin-top: 30px;
 }
 .carousel-inner > .item{
 	border:none !important;
