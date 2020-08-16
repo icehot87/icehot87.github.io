@@ -4,8 +4,8 @@ main:
     url: /blog/
   - title: "About Me"
     url: about.html
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Game Reviews"
+    url: /Game Reviews/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
