@@ -4,7 +4,7 @@ title: "Assassin's Creed Odyssey - Worth it in 2020?"
 date: 2020-08-16
 tags: [Assassin's Creed, Odyssey, Game Review]
 header:
-    image: "/images/myPhotos/Assassins-Creed-Odyssey.jpg"
+    image: "/images/myPhotos/assassins-creed-odyssey.jpg"
 excerpt: "Game review for Assassin's Creed Odyssey"
 categories: game-reviews
 ---
