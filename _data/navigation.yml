@@ -2,10 +2,10 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Game Reviews"
+    url: /game-reviews/
   - title: "About Me"
     url: about.html
-  - title: "Game Reviews"
-    url: /Game Reviews/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
