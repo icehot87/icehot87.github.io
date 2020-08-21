@@ -51,19 +51,19 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id       : 45350c7896c9f9467
+  instant_search         : true
 # SEO Related
-google_site_verification :
+google_site_verification : LMBU8BgU7NhAt1IYCdcA6iwHcgeI2MfdpGTGPJYKcAo
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -262,7 +262,7 @@ tag_archive:
 #     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
-#     tag: /tags/:name/
+#     tag: /tags/:name
 
 
 # HTML Compression
