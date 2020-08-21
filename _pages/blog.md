@@ -4,10 +4,8 @@ permalink: /blog/
 title: "Blogs"
 author_profile: true
 ---
-<ul>
+<div>
   {% for post in site.categories.blogs %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+      {% include archive-single.html type=page.entries_layout %}
   {% endfor %}
-</ul>
+</div>
