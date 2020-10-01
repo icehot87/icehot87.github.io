@@ -1,6 +1,6 @@
 ---
 title: "Pimp my Mac terminal"
-date: 2020-08-16
+date: 2020-09-12
 tags: [Mac]
 header:
 excerpt: "Upgrading the Mac terminal"
